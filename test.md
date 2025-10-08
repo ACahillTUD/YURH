@@ -11,3 +11,7 @@
 2. Second step
 [Visit GitHub](https://github.com)
 
+## partner contributions
+
+- Conor Cleary
+- 
